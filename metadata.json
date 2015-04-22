@@ -1,0 +1,13 @@
+{
+  "author": "Peter Sellars",
+  "dependencies": [],
+  "license": "Apache-2.0",
+  "name": "psellars-infrastructure",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "https://github.com/petersellars/Puppet-Infrastructure",
+  "summary": "Infrastructure module containing Roles, Profiles and Hiera data for configuring personal infrastructure.",
+  "tags": [],
+  "version": "0.1.0"
+}

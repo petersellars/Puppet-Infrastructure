@@ -1,0 +1,4 @@
+/.project
+
+# Ignore GFM Viewer HTML file
+.README.md.html
