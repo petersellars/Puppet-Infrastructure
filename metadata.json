@@ -6,7 +6,7 @@
   "operatingsystem_support": [],
   "project_page": "",
   "requirements": [],
-  "source": "https://github.com/petersellars/Puppet-Infrastructure",
+  "source": "https://github.com/petersellars/Puppet-Infrastructure.git",
   "summary": "Infrastructure module containing Roles, Profiles and Hiera data for configuring personal infrastructure.",
   "tags": [],
   "version": "0.1.0"

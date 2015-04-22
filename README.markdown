@@ -1,6 +1,6 @@
 # Puppet Infrastructure #
 
-This Puppet Module contains Role, Profiles and Hiera data used to configue my
+This Puppet Module contains Role, Profiles and Hiera data used to configure my
 personal infrastructure.
 
 ## Tools ##
