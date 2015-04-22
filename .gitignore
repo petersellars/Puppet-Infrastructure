@@ -1,4 +1,5 @@
 /.project
+Gemfile.lock
 
 # Ignore GFM Viewer HTML file
 .README.md.html
